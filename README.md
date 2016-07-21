@@ -14,38 +14,24 @@ is to provide the learner with:
 
 1. an introduction to the key ideas behind reproducible research,
 
-2. an introduction to the tools and techniques to transform raw
+2. an introduction to the tools and techniques to transform raw data into a presentable report,
 
-data into a presentable report,
+4. an opportunity to gain hands-on practice so you can learn the techniques for yourself, and
 
-4. an opportunity to gain hands-on practice so you can learn the
-
-techniques for yourself, and
-
-3. an appreciation of the mathematics & statistics involved in
-
-data science.
+3. an appreciation of the mathematics & statistics involved in data science.
 
 ## Core Courses
 
 The courses comprising the Data Science Specialization are:
 
 * Data Scientist's Toolbox
-
 * R Programming
-
-* Exploratory Data Analysis
-
 * Getting and Cleaning Data
-
+* Exploratory Data Analysis
 * Reproducible Research
-
 * Statistical Inference
-
 * Regression Models
-
 * Practical Machine Learning
-
 * Developing Data Products
 
 ![Course Dependency](dst_courses.png)
