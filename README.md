@@ -20,6 +20,8 @@ is to provide the learner with:
 
 3. an appreciation of the mathematics & statistics involved in data science.
 
+Git is easy. Git is fun. Thanks Linus!
+
 ## Core Courses
 
 The courses comprising the Data Science Specialization are:
